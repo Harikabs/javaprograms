@@ -3,7 +3,7 @@ public class ElseIf{
 public static void main(String args[]){
 Scanner sc=new Scanner(System.in);
 int time=sc.nextInt();
-if(4>time<9){
+if(time>4&&time<9){
 System.out.println("morning");
 }
 else if (time<13){
