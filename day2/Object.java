@@ -1,13 +1,10 @@
 import java.util.*;
 public class Object{
-void show()
-{
-System.out.println("hello world");
+Object(){
+System.out.println("helloworld");
 }
 public static void main(String args[]){
-{
-Object obj=new Object;
-Obj.show();
+Object obj=new Object();
 }
 }
 
