@@ -1,6 +1,6 @@
 import java.util.*;
 public class Palindrome{
-public static void main(string args[]){
+public static void main(String args[]){
 Scanner sc=new Scanner(System.in);
 int r,sum=0;
 int n=sc.nextInt();
