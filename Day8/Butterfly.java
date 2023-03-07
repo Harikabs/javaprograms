@@ -23,7 +23,7 @@ for(int k=0;k<=i-1;k++)
 System.out.print(" ");
 
 for(int k=1;k<=i-1;k++)
-System.out.print(" s");
+System.out.print(" ");
 for(int j=i+1;j<=n;j++)
 System.out.print(j);
 
