@@ -1,3 +1,5 @@
+//program to find the leaders in the array
+
 import java.util.*;
 import java.util.Arrays;
 public class Leaders{
