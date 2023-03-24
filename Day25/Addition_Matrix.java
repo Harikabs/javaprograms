@@ -1,4 +1,4 @@
-//program  for subtraction of two matrixes
+//program  for addition of two matrixes
 //import java.util.Arrays;
 public class 
 
