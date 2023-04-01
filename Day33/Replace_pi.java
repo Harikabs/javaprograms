@@ -1,0 +1,16 @@
+//Given a string, compute recursively (no loops) a new string where all appearances of "pi" have been replaced by "3.14".
+public class Replace_pi{
+public static void main(String args[]){
+String str="xpix";
+System.out.println(changePi(str));
+}
+public static String changePi(String str) {
+  if(str.length()<2)
+  return str;
+  if(str.substring(0,2).equals("pi"))
+  return "3.14"+changePi(str.substring(2));
+  else
+    return str.charAt(0)+changePi(str.substring(1));
+}
+}
+
