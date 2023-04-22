@@ -1,10 +1,7 @@
 public class Cipher {
    static char arr[]={'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
-
     public static void main(String[] args) {
-
     String cipher="olssv dvysk";
-
     decode(cipher);
     }
     static void decode(String str){
@@ -23,6 +20,5 @@ public class Cipher {
             }
             System.out.println();
         }
-    }
-    
+    }  
 }

@@ -1,0 +1,5 @@
+1.find the large number in the array?
+2.finding two  closest stars in a galaxy ?
+3.guess the number given by user ?
+4.crack  the password of the phone?
+5.find the distinct elements in the array?
