@@ -10,7 +10,6 @@ public class BruteForce{
 }
 class Lock {
     int passcode = (int)Math.floor((Math.random()*9000.0+1000.0));
-    //0.0000000*10000 = 0
     boolean checkPassCode(int mycode){
         if(passcode==mycode)
             return true;
