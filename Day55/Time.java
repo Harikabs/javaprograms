@@ -10,7 +10,7 @@ public class Time {
         System.out.println(date);
         LocalDateTime dateTime = LocalDateTime.now();
         System.out.println(dateTime);
-        DateTimeFormatter  d = DateTimeFormatter.ofPattern("DD-MM-YYYY");
+        DateTimeFormatter  d = DateTimeFormatter.ofPattern("DD-MM-YYYY+");
         System.out.println(d);
     }  
 }
