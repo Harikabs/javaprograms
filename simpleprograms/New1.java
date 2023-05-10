@@ -1,6 +1,5 @@
 import java.util.*;
 public class New1 {
-    
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
