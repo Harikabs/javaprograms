@@ -10,6 +10,7 @@ public class Water {
 		
 		    int x=sc.nextInt();
 		    int y=sc.nextInt();
+			int z = sc.nextInt();
 		    System.out.println(x/(y*2));
 		    sc.close();
 		}
