@@ -16,10 +16,7 @@ public class Program {
 		    
 		    else
 		        System.out.println((x*y)+(z*(x/3)));
-		    
-	        
-	    }
+			    }
         hh.close();
 	}
 }
-
