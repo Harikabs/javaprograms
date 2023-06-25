@@ -31,6 +31,7 @@ class ArrayDequeEx {
         System.out.println(deque);
         System.out.println(deque.removeLastOccurrence(50)); // removes the last occurance of the specified element
         System.out.println(deque.pop()); // The method pops out an element for stack represented by deque
+
         
         for (Integer integer : deque) {
             System.out.println(integer);
