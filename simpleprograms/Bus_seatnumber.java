@@ -17,8 +17,6 @@ public class Bus_seatnumber {
 		    System.out.println("upper double");
 		else
 		    System.out.println("upper single");
-		
-
         hh.close();
     }
 	}
