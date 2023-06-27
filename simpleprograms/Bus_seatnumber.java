@@ -6,9 +6,7 @@ public class Bus_seatnumber {
 	{
 		// your code goes here
 		Scanner hh = new Scanner(System.in);
-		
-		
-		int n = hh.nextInt();
+           	int n = hh.nextInt();
 		if(n<=10)
 		    System.out.println("lower double");
 		else if(n<=15)
@@ -19,6 +17,6 @@ public class Bus_seatnumber {
 		    System.out.println("upper single");
         hh.close();
     }
-	}
+}
 
 
