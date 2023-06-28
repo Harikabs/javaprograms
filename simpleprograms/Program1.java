@@ -16,9 +16,7 @@ public class Program1 {
 		    if((y+y%5)==0)
 		        System.out.println(y+y%5);
 		    else
-		        System.out.println(-1);
-		    
-		    
+		        System.out.println(-1)		    
 		}
 	}
 }
