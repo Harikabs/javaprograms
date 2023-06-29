@@ -15,6 +15,4 @@ public class Bullet {
                 hh.close();
 		}
 
-	}
-
-
+}
