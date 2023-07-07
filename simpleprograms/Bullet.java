@@ -3,7 +3,7 @@ import java.util.*;
 public class Bullet {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		// your code goes here
+		
 		Scanner hh = new Scanner(System.in);
 		    int x = hh.nextInt();
 		    int y = hh.nextInt();
