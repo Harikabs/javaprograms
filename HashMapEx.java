@@ -1,5 +1,4 @@
 import java.util.*;
-
 class HashMapEx {
     public static void main(String[] args) {
 
