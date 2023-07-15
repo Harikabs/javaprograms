@@ -1,7 +1,6 @@
 import java.util.*;
 import java.lang.*;
 public class Bus_seatnumber {
-
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		// your code goes here
