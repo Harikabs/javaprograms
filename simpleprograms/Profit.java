@@ -1,9 +1,7 @@
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 public class Profit {
-
 	public static void main (String[] args) throws java.lang.Exception
 	{
 	  Scanner get = new Scanner(System.in);
