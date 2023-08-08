@@ -1,6 +1,5 @@
 import java.util.*;
-public class ArrayListEx {
-    
+public class ArrayListEx {   
     public static void main(String[] args) {
         ArrayList<Integer> arr = new ArrayList<>();
         arr.add(110);
