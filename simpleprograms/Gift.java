@@ -15,4 +15,3 @@ public class Gift {
 		    System.out.println("no");
 			}
 }
-
