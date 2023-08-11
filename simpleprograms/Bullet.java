@@ -11,6 +11,5 @@ public class Bullet {
 		    else
 		        System.out.println(z-(y/x));
                 hh.close();
-		}
-
+	}
 }
