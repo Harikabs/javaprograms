@@ -17,4 +17,3 @@ public class ArrayListEx {
         System.out.println(arr);
     }
 }
-
