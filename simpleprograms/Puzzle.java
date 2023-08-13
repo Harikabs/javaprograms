@@ -1,8 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class Puzzle
-{
+class Puzzle{
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		Scanner hh = new Scanner(System.in);
