@@ -3,7 +3,6 @@ import java.lang.*;
 public class Bus_seatnumber {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-
 		Scanner hh = new Scanner(System.in);
            	int n = hh.nextInt();
 		if(n<=10)
