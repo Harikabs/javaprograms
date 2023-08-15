@@ -22,7 +22,7 @@ class HashMapEx {
 
         for(Map.Entry<Integer, String> e : map.entrySet()) // traversal of hashmap
 
-            System.out.println(e.getKey()+" : "+ e.getValue());
+        System.out.println(e.getKey()+" : "+ e.getValue());
 
         System.out.println(map.get(101)); //returns the value to which the specified key is mapped
 
@@ -45,6 +45,5 @@ class HashMapEx {
         map1.put(102, "king");
 
         System.out.println(map.equals(map1));
-
     }
 }
